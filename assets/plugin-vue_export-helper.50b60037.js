@@ -1,1 +1,0 @@
-import{a6 as c}from"./vendor.b36a9285.js";const l=async r=>{var t,a;r.duration=(t=r.duration)!=null?t:2e3,r.color=(a=r.color)!=null?a:"primary",await(await c.create(r)).present()};var n=(r,t)=>{const a=r.__vccOpts||r;for(const[e,o]of t)a[e]=o;return a};export{n as _,l as t};
