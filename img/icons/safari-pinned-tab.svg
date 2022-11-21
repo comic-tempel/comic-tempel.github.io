@@ -1,3 +1,132 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.00251 14.9297L0 1.07422H6.14651L8.00251 4.27503L9.84583 1.07422H16L8.00251 14.9297Z" fill="black"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 154.05513 154.05513"
+   data-background-color="#000000"
+   preserveAspectRatio="xMidYMid"
+   height="154.05513"
+   width="154.05513"
+   version="1.1"
+   id="svg63"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview65"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.8029051"
+     inkscape:cx="34.388943"
+     inkscape:cy="151.97694"
+     inkscape:window-width="3440"
+     inkscape:window-height="1411"
+     inkscape:window-x="1920"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g41" />
+  <g
+     id="g50"
+     transform="matrix(0.86566307,0,0,0.86566307,-94.165778,-47.593498)" />
+  <g
+     transform="scale(0.86566307)"
+     id="g48">
+    <svg
+       viewBox="0 0 177.96237 177.96237"
+       height="177.96237"
+       width="177.96237"
+       version="1.1"
+       id="svg46">
+      <g
+         id="g22">
+        <svg
+           version="1.1"
+           id="svg20"
+           width="100%"
+           height="100%" />
+      </g>
+      <g
+         id="icon-0">
+        <svg
+           viewBox="0 0 177.96237 177.96237"
+           height="177.96237"
+           width="177.96237"
+           version="1.1"
+           id="svg43">
+          <g
+             id="g28">
+            <path
+               d="M 0,88.981 C 0,39.838 39.838,0 88.981,0 c 49.143,0 88.981,39.838 88.981,88.981 0,49.143 -39.838,88.981 -88.981,88.981 C 39.838,177.962 0,138.124 0,88.981 Z m 88.981,82.39 c 45.503,0 82.39,-36.887 82.39,-82.39 0,-45.503 -36.887,-82.39 -82.39,-82.39 -45.503,0 -82.39,36.887 -82.39,82.39 0,45.503 36.887,82.39 82.39,82.39 z"
+               data-fill-palette-color="accent"
+               fill="#ff0066"
+               stroke="transparent"
+               id="path24" />
+            <circle
+               cx="88.981186"
+               cy="88.981186"
+               fill="#ff0066"
+               stroke="transparent"
+               stroke-width="0"
+               fill-opacity="1"
+               data-fill-palette-color="accent"
+               id="ellipse26"
+               r="88.09137" />
+          </g>
+          <g
+             transform="translate(37.487937,51.60516)"
+             id="g41">
+            <svg
+               viewBox="0 0 102.98649 74.752048"
+               height="74.752045"
+               width="102.9865"
+               version="1.1"
+               id="svg39"
+               style="fill:#ffffff">
+              <g
+                 id="g37"
+                 style="fill:#ffffff">
+                <svg
+                   version="1.1"
+                   x="0"
+                   y="0"
+                   viewBox="5.4990005 16.625008 90.948006 66.013992"
+                   enable-background="new 0 0 100 100"
+                   xml:space="preserve"
+                   height="74.752045"
+                   width="102.9865"
+                   class="icon-x-0"
+                   data-fill-palette-color="quaternary"
+                   id="x-0"
+                   style="fill:#ffffff"><g
+                     fill="#000000"
+                     data-fill-palette-color="quaternary"
+                     id="g34"
+                     style="fill:#ffffff"><g
+                       fill="#000000"
+                       data-fill-palette-color="quaternary"
+                       id="g32"
+                       style="fill:#ffffff"><path
+                         fill-rule="evenodd"
+                         clip-rule="evenodd"
+                         d="M 92.818,23.216 V 72.1 c 0,0 -13.907,-3.91 -24.24,-1.923 -9.255,1.779 -16.066,6.8 -17.215,7.687 v 0.148 c 0,0 -0.034,-0.027 -0.096,-0.075 -0.061,0.048 -0.095,0.075 -0.095,0.075 V 77.864 C 50.024,76.977 43.213,71.957 33.961,70.177 23.626,68.189 8.357,72.1 8.357,72.1 V 23.071 C 7.464,23.205 6.517,23.348 5.499,23.5 v 52.662 c 0,0 16.64,-4.282 27.959,-2.104 11.131,2.141 17.856,8.581 17.856,8.581 0,0 6.725,-6.44 17.855,-8.581 11.321,-2.179 27.278,2.104 27.278,2.104 V 23.727 c 10e-4,0 -1.388,-0.235 -3.629,-0.511 z M 33.121,65.229 c 9.051,1.739 16.046,6.978 16.046,6.978 V 24.113 c 0,0 -7.032,-5.245 -16.104,-6.989 -9.183,-1.766 -21.179,1.723 -21.179,1.723 v 48.094 c 0,0 12.034,-3.482 21.237,-1.712 z m 56.163,1.888 V 19.023 c 0,0 -10.996,-3.49 -20.175,-1.723 -9.072,1.743 -16.335,6.987 -16.335,6.987 v 48.095 c 0,0 7.223,-5.237 16.276,-6.979 9.202,-1.767 20.234,1.714 20.234,1.714 z"
+                         fill="#000000"
+                         data-fill-palette-color="quaternary"
+                         id="path30"
+                         style="fill:#ffffff" /></g></g></svg>
+              </g>
+            </svg>
+          </g>
+        </svg>
+      </g>
+    </svg>
+  </g>
+  <defs
+     id="defs61" />
 </svg>
