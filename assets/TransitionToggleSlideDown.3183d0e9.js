@@ -1,1 +1,0 @@
-import{o,c as a,w as n,W as r,ab as t}from"./index.f01522e6.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";function _(e,d){return o(),a(t,{name:"slide-down"},{default:n(()=>[r(e.$slots,"default",{},void 0,!0)]),_:3})}const i={};var u=s(i,[["render",_],["__scopeId","data-v-5b8e3a7e"]]);export{u as T};
